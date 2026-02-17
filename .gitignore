@@ -1,0 +1,20 @@
+# Secrets & Sensitive
+*.env
+*.pem
+*.key
+secrets/
+credentials/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temp
+tmp/
+temp/
+*.tmp
+.openclaw/
